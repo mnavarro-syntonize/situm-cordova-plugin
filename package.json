@@ -1,8 +1,8 @@
 {
-  "name": "situm-cordova-plugin-official",
+  "name": "situm-cordova-plugin-mnavarro-fork",
   "version": "1.16.2",
   "cordova": {
-    "id": "situm-cordova-plugin-official",
+    "id": "situm-cordova-plugin-mnavarro-fork",
     "platforms": [
       "android",
       "ios"
